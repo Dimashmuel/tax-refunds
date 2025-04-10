@@ -1,3 +1,4 @@
-הרצה מקומית :
+Local run:
+
 npm install
 npm run dev
